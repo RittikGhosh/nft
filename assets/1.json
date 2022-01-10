@@ -1,0 +1,36 @@
+{
+  "name": "Bear 1",
+  "symbol": "",
+  "description": "creating nfts",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "outfit",
+      "value": "t-shirt"
+    },
+    {
+      "trait_type": "holding",
+      "value": "candle"
+   }
+  ],
+  "collection": {
+     "name": "bearnft",
+     "family": "NFT"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DGskLZVuu7ttsRhmhhbzpDFx4tchHG9dkwT1SmTXowa3",
+        "share": 100
+      }
+    ]
+  }
+}
